@@ -3,6 +3,7 @@
 -- Modelo SQL 1:1 con diagrama Mermaid
 -- ================================================
 
+DROP DATABASE IF EXISTS gestion_hojas_vida;
 CREATE DATABASE gestion_hojas_vida;
 USE gestion_hojas_vida;
 
